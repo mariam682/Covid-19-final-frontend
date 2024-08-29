@@ -97,6 +97,92 @@ h6 {
 }
 
 .footer hr {
-    background-color: #fff;
+    background-color: #b10000;
 }
 
+.lastd {
+    margin-top: 70px;
+    width: 100%;
+    flex: 1;
+    background-color: #4861A2;
+
+}
+
+.lastd .row h1 {
+    font-size: 40px;
+    font-style: oblique;
+    color: white;
+    font-weight: bold;
+}
+
+.lastd .row span {
+    color: rgb(130, 155, 238);
+}
+
+.lastd .row p {
+    color: rgb(245, 242, 242);
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.lastd .row a {
+    color: white;
+    margin: 10px;
+
+}
+
+.lastd .row h2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: initial;
+    margin-top: 15px;
+}
+
+.lastd .row ol {
+    color: rgb(211, 213, 205);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.lastd .row li a {
+    text-decoration: inherit;
+    color: #8FB2EC;
+    margin-top: 15px;
+    font-size: 15px;
+    
+}
+
+.lastd .row li {
+    margin: 30px;
+}
+
+.lastd .row .ono {
+    color:rgba(255, 255, 255);
+}
+
+.lastd .row .ono a {
+    color: #8FB2EC;
+    font-size: 15px;
+}
+
+.lastd .row .ont {
+    color: rgb(255, 255, 255);
+}
+
+.lastd .row .ont a {
+    color: #8FB2EC;
+    font-size: 15px;
+}
+
+.lastd .row .lp {
+    color: #8FB2EC;
+}
+
+.lastd .container .lp .fas {
+    font-size: 25px;
+    margin-right: 10px;
+}
